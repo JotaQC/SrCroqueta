@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <p align='center'>
-<a href="https://twitch.tv/SrCroqueta_"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
-<a href="https://twitter.com/SrCroqueta_"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/srcroqueta.bsky.social" style="display: inline-block;"><img src="https://images.seeklogo.com/logo-png/52/1/bluesky-logo-png_seeklogo-520643.png" alt="Bluesky" style="width: 64px; height: 64px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);"></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/SrCroqueta_" target="_blank"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
+<a href="https://twitter.com/SrCroqueta_" target="_blank"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
 </p>  
 
 ## Used
